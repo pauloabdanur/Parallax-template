@@ -23,10 +23,10 @@ export const ImageWrapper = styled.div`
 
 export const Banner = styled.h2<{ marginRight?: number; marginTop?: number }>`
   position: absolute;
-  right: -300px;
+  right: -200px;
   color: #fff;
   white-space: nowrap;
-  font-size: 7.5vw;
+  font-size: 7.2vw;
   z-index: 9;
   margin-right: ${(props) => props.marginRight + 'px' ?? 0};
   margin-top: ${(props) => props.marginTop + 'px' ?? 0};
