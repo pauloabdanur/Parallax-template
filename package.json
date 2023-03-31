@@ -1,5 +1,6 @@
 {
   "name": "parallax-site",
+  "homepage": "https://pauloabdanur.github.io/parallax-template/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
