@@ -8,11 +8,11 @@ You can see how it works here!
 
 https://pauloabdanur.github.io/Parallax-template/
 
-## Run the project
+## Steps to run the project
 
-    1. Clone the repo in a directory of your preference with the command:
-        `git clone https://github.com/pauloabdanur/Parallax-template.git`
+In the project directory, enter the following commands:
 
-    2. Access the project and run in the terminal:
-        `yarn` to install dependencies
-        `yarn start` to run the aplication at http://localhost:3000
+1. `yarn`
+2. `yarn start`
+
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
